@@ -1,1 +1,3 @@
-# EF_Mapped_Enum_Bug
+# Enum mapped to char keeps producing database modifications on each migration
+
+See https://github.com/dotnet/efcore/issues/26366
